@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Large biodata files
+*.bam
+
+# Folders to exclude
+/results/
+/data/
+/OS_files/
